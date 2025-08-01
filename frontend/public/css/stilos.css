@@ -209,7 +209,7 @@
 }
 
 body.index {
-  background-image: url('/EduCan/assets/imagenes/neo.jpg');
+  background-image: url('/img/neo.jpg');
   background-color: rgb(255, 255, 255);
   background-size: cover;
   background-position: center;
@@ -235,7 +235,7 @@ body.index {
 }
 
 body.servicios {
-  background-image: url('assets/Athena.jpg');
+  background-image: url('/img/Athena.jpg');
   background-color: rgb(255, 255, 255);
   background-size: cover;
   background-position: center;
